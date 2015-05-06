@@ -1,0 +1,14 @@
+{
+  "name": "audiolib.js",
+  "version": "0.6.6",
+  "description": "audiolib.js is a powerful audio tools library for javascript.",
+  "main": "dist/audiolib.js",
+  "ignore": [
+    "**/.*",
+    "*.iml",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
